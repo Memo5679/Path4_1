@@ -46,5 +46,9 @@ height: auto;
 margin-top: 10px;
 margin-left: 225px"
                   type="button">Backwards</button>
+ <address>
+        Written by Mohammed Gamal<br> 
+    </address> 
+    
 </body>
 </html>
