@@ -1,2 +1,3 @@
 # Path4_1
-simple Control Board
+this is a simple user interface control panel for robot movement
+(simple Control Board)
